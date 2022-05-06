@@ -1,0 +1,34 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+#MainCard{
+    width: 315px;
+    height: 485px;
+    padding: 15px;
+    border-radius: 15px;
+}
+#CardImg{
+    border-radius: 15px;
+}
+#CardHeading{
+    margin-top: 7px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    font-size: 21.5px;
+    color: hsl(218, 44%, 22%);
+    line-height: 1.18;
+}
+#CardPara{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+    line-height: 1.2;
+}
+#Card{
+    padding-top: 80px;
+}
+a{
+    text-decoration: none;
+    color: #541690;
+}
